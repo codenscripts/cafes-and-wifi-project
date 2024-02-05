@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/day-66-starting-files-cafe-api.iml" filepath="$PROJECT_DIR$/.idea/day-66-starting-files-cafe-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../cafe-api/.idea/cafe-api.iml" filepath="$PROJECT_DIR$/../cafe-api/.idea/cafe-api.iml" />
     </modules>
   </component>
 </project>
